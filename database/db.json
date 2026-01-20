@@ -1,0 +1,172 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "firstName": "Alfred",
+      "lastName": "Kuhlman",
+      "email": "alfred.kuhlman@test.com",
+      "phone": "98989898",
+      "address": "123 Main St"
+    },
+    {
+      "id": "2",
+      "firstName": "Sophia",
+      "lastName": "Turner",
+      "email": "sophia.turner@test.com",
+      "phone": "98765432",
+      "address": "45 Oak Avenue"
+    },
+    {
+      "id": "3",
+      "firstName": "James",
+      "lastName": "Anderson",
+      "email": "james.anderson@test.com",
+      "phone": "91234567",
+      "address": "78 Pine Road"
+    },
+    {
+      "id": "4",
+      "firstName": "Emma",
+      "lastName": "Wilson",
+      "email": "emma.wilson@test.com",
+      "phone": "99887766",
+      "address": "12 Maple Street"
+    },
+    {
+      "id": "5",
+      "firstName": "Liam",
+      "lastName": "Brown",
+      "email": "liam.brown@test.com",
+      "phone": "93456789",
+      "address": "90 Cedar Lane"
+    },
+    {
+      "id": "6",
+      "firstName": "Olivia",
+      "lastName": "Martinez",
+      "email": "olivia.martinez@test.com",
+      "phone": "97654321",
+      "address": "34 Birch Blvd"
+    },
+    {
+      "id": "7",
+      "firstName": "Noah",
+      "lastName": "Taylor",
+      "email": "noah.taylor@test.com",
+      "phone": "90123456",
+      "address": "67 Walnut Way"
+    },
+    {
+      "id": "8",
+      "firstName": "Ava",
+      "lastName": "Thomas",
+      "email": "ava.thomas@test.com",
+      "phone": "92345678",
+      "address": "89 Spruce Drive"
+    },
+    {
+      "id": "9",
+      "firstName": "William",
+      "lastName": "Harris",
+      "email": "william.harris@test.com",
+      "phone": "95678901",
+      "address": "21 Elm Street"
+    },
+    {
+      "id": "10",
+      "firstName": "Isabella",
+      "lastName": "Clark",
+      "email": "isabella.clark@test.com",
+      "phone": "94561234",
+      "address": "56 Willow Court"
+    },
+    {
+      "id": "11",
+      "firstName": "Benjamin",
+      "lastName": "Lewis",
+      "email": "benjamin.lewis@test.com",
+      "phone": "97890123",
+      "address": "102 Aspen Road"
+    },
+    {
+      "id": "12",
+      "firstName": "Mia",
+      "lastName": "Walker",
+      "email": "mia.walker@test.com",
+      "phone": "96781234",
+      "address": "8 Redwood Terrace"
+    },
+    {
+      "id": "13",
+      "firstName": "Lucas",
+      "lastName": "Hall",
+      "email": "lucas.hall@test.com",
+      "phone": "93218765",
+      "address": "41 Cherry Lane"
+    },
+    {
+      "id": "14",
+      "firstName": "Charlotte",
+      "lastName": "Allen",
+      "email": "charlotte.allen@test.com",
+      "phone": "95432109",
+      "address": "77 Magnolia Ave"
+    },
+    {
+      "id": "15",
+      "firstName": "Henry",
+      "lastName": "Young",
+      "email": "henry.young@test.com",
+      "phone": "96543210",
+      "address": "19 Cypress Street"
+    },
+    {
+      "id": "16",
+      "firstName": "Amelia",
+      "lastName": "King",
+      "email": "amelia.king@test.com",
+      "phone": "94321098",
+      "address": "66 Poplar Road"
+    },
+    {
+      "id": "17",
+      "firstName": "Alexander",
+      "lastName": "Wright",
+      "email": "alexander.wright@test.com",
+      "phone": "92109876",
+      "address": "5 Sycamore Place"
+    },
+    {
+      "id": "18",
+      "firstName": "Harper",
+      "lastName": "Lopez",
+      "email": "harper.lopez@test.com",
+      "phone": "98761234",
+      "address": "83 Hickory Lane"
+    },
+    {
+      "id": "19",
+      "firstName": "Daniel",
+      "lastName": "Scott",
+      "email": "daniel.scott@test.com",
+      "phone": "97651234",
+      "address": "29 Palm Street"
+    },
+    {
+      "id": "20",
+      "firstName": "Evelyn",
+      "lastName": "Green",
+      "email": "evelyn.green@test.com",
+      "phone": "93450987",
+      "address": "14 Fir Avenue"
+    },
+    {
+      "id": "03b2",
+      "firstName": "Shamim",
+      "lastName": "Islam Rahim",
+      "email": "shamimmian91@gmail.com",
+      "phone": "01309073947",
+      "address": "Village: Kursha Badagoir, Post Office: Nakla, Upazila : Nakla, District : Sherpur\nNext to Chowdhury chobrunnessa Mohila degree College, Nakla Upazila"
+    }
+  ]
+}
